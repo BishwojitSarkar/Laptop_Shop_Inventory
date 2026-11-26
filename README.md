@@ -20,6 +20,9 @@ This project is intended for laptop shop owners and employees who need an organi
 - **Clear Fields:** Clear the input fields for new entries.
 - **Database Integration:** Store and manage inventory records using Microsoft SQL Server.
 
+
+![img alt](https://github.com/BishwojitSarkar/Laptop_Shop_Inventory/blob/main/Screenshot%202026-11-26%20113857.png)
+
 ## Technologies Used
 
 - **Programming Language:** C#
